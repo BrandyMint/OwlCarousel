@@ -1,0 +1,15 @@
+{
+  "name": "OwlCarousel",
+  "version": "0.1.0",
+  "homepage": "http://leafo.net/sticky-kit/",
+  "main": "owl-carousel/owl-carousel.min.js",
+  "keywords": [
+    "carousel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "site",
+    "test"
+  ]
+}
